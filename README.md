@@ -1,7 +1,8 @@
 # SampleFOSS
 
-1	Introduction
-1.1	Purpose
+# 1	Introduction
+# 1.1	Purpose
+
 The purpose of this Installation Guide is to describe in technical terms the steps necessary to install the software and make it operational.
 1.2	Juniper Module
 This module of Juniper consists of all relevant microservices responsible for migrating a File from a Linux premises to Google Cloud Storage. 

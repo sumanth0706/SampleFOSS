@@ -46,5 +46,26 @@ Oracle
 REF-7	https://www.linode.com/docs/development/java/how-to-deploy-spring-boot-applications-nginx-ubuntu-16-04/
 Maven
 
+1.8	References 
+Refer the below links for installations of the following software/tools
+Reference No.	Document	Tools(s)
+REF-1	https://nifi.apache.org/
+Apache Nifi
+
+REF-2	https://kafka.apache.org/downloads
+Kafka
+
+REF-3	https://www.linode.com/docs/development/java/how-to-deploy-spring-boot-applications-nginx-ubuntu-16-04/
+Java
+REF-4	https://www.linode.com/docs/development/java/how-to-deploy-spring-boot-applications-nginx-ubuntu-16-04/
+Spring Boot
+
+REF-5	https://tecadmin.net/install-python-2-7-on-centos-rhel/
+Python
+REF-6	https://www.tecmint.com/install-oracle-database-12c-on-centos-7/
+Oracle
+REF-7	https://www.linode.com/docs/development/java/how-to-deploy-spring-boot-applications-nginx-ubuntu-16-04/
+Maven
+
 
 
